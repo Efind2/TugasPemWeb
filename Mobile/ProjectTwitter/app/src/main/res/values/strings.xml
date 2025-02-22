@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Project-Twitter</string>
-    <string name="todo">TODO</string>
-    <string name="afifudin">afifudin</string>
-    <string name="wishpond" />
-    <string name="username">username</string>
-    <string name="tweets_replies"><![CDATA[Tweets & replies]]></string>
-</resources>
